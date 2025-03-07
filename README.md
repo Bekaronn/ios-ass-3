@@ -21,6 +21,8 @@ HeroRandomizer is an iOS application that fetches and displays random superheroe
 
 ## 📸 Screenshots  
 
-| Main Screen | Edit Profile | Hobbies & Goals |
-|------------|-------------|----------------|
-| ![Main Screen](screenshots/screenshot1.png) | ![Edit Profile](screenshots/screenshot2.png) | ![Hobbies & Goals](screenshots/screenshot3.png) |
+<p align="center">
+  <img src="screenshots/screenshot1.png" width="30%">
+  <img src="screenshots/screenshot2.png" width="30%">
+  <img src="screenshots/screenshot3.png" width="30%">
+</p>
